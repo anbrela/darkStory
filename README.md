@@ -9,12 +9,6 @@
 Web App Game based on Black Stories board GameWeb app chatbot game based on black stories board game.
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=oTLmIE79Bzs
-" target="_blank"><img src="http://img.youtube.com/vi/oTLmIE79Bzs/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="100%" height="100%" border="5px solid green" /></a>
-
-
-
 > "Outstanding Experience! This game its awesome"
 
 
